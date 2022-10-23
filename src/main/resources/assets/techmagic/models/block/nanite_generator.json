@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "techmagic:blocks/base_station_bottom",
+    "up": "techmagic:blocks/base_station_top",
+    "north": "techmagic:blocks/base_station_front",
+    "east": "techmagic:blocks/base_station",
+    "south": "techmagic:blocks/base_station",
+    "west": "techmagic:blocks/base_station",
+    "particle": "techmagic:blocks/base_station_bottom"
+  }
+}

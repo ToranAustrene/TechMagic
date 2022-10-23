@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "Tech Magic",
+    "icon": {
+      "value": "Items.RAW_COPPER"
+    },
+    "showSearch": true
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "techmagic:blocks/nan",
+    "up": "techmagic:blocks/nan",
+    "north": "techmagic:blocks/nan",
+    "east": "techmagic:blocks/nan",
+    "south": "techmagic:blocks/nan",
+    "west": "techmagic:blocks/nan",
+    "particle": "techmagic:blocks/nan"
+  }
+}

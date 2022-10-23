@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "techmagic:block/nanite_generator"
+    },
+    "facing=east": {
+      "model": "techmagic:block/nanite_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "techmagic:block/nanite_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "techmagic:block/nanite_generator",
+      "y": 270
+    }
+  }
+}

@@ -18,3 +18,6 @@ run/
 # Other Files (In Eclipse)
 .classpath
 .project
+
+# Other mods
+extra-mods-1.18.2/
